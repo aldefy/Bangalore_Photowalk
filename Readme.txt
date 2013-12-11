@@ -1,0 +1,1 @@
+This is alpha test builds of the app a seperate apk will be provided use it if u cant build
